@@ -1,96 +1,66 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [anonymous expressaion] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [kailaq]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [nijin rajesh] - [mbccet]
+- Member 2: [jithu joby] - [mbccet]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+the priject aims to user to type random stufs which delete after aspecific period of time
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+user to type random stuff and then deletes automatically
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+which should remove the time limit for deletion
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html css java]
+- [vs code]
+  
+- [preset codes]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
 [commands]
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](https://drive.google.com/file/d/1lVZSoQSTuZG1qBQSymmBSoIp-UkIUokX/view?usp=drivesdk)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot2](https://drive.google.com/file/d/1l_HSR_u1DGEeaap6oW-EuweEBzvQcqTb/view?usp=drivesdk)
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Screenshot3](https://drive.google.com/file/d/1ldBIpdAoSynHGmkNz_nUJoDMFO8Y5REZ/view?usp=drivesdk)
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
+[
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+[https://drive.google.com/file/d/1leKHZ4Kd4IIFVYbU6U28W5MgSWuehyrX/view?usp=drivesdk]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [nijin rajesh]: [coding]
+- [jithu joby]: [ui design]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
